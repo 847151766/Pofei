@@ -8,3 +8,5 @@ C:\Users\Eric\documents\visual studio 2010\Projects\Chenfabiao\Chenfabiao\obj\x8
 C:\Users\Eric\documents\visual studio 2010\Projects\Chenfabiao\Chenfabiao\bin\Debug\Chenfabiao.exe
 C:\Users\Eric\documents\visual studio 2010\Projects\Chenfabiao\Chenfabiao\bin\Debug\Chenfabiao.pdb
 C:\Users\Eric\documents\visual studio 2010\Projects\Chenfabiao\Chenfabiao\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\YEQI\Chenfabiao\Chenfabiao\obj\x86\Debug\Chenfabiao.exe
+C:\Users\Eric\Documents\Visual Studio 2010\Projects\YEQI\Chenfabiao\Chenfabiao\obj\x86\Debug\Chenfabiao.pdb
